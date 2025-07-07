@@ -1,7 +1,7 @@
 # Bank-Customer-Churn-Analysis
-Developed an interactive Power BI dashboard to analyze customer churn in the banking sector. Used DAX to calculate churn KPIs and Power Query for data cleaning. Visualizations enabled trend analysis by demographics, financial behavior, and geography, helping identify high-risk segments and underperforming products.
+Developed an interactive Tableau dashboard to analyze customer churn in the banking sector. Used Calculated fields to calculate churn KPIs and Power Query for data cleaning. Visualizations enabled trend analysis by demographics, financial behavior, and geography, helping identify high-risk segments and underperforming products.
 
-Tools: Power BI, DAX, Power Query, Excel
+Tools: Tableau, Excel
 
 Key Impact:
 
